@@ -1,4 +1,42 @@
-# Moodverse
+# Moodverse 🌈
+
+India’s AI-Powered Digital Therapy Dost 🇮🇳
+
+## 🚀 About
+Moodverse is an AI-driven mental wellness platform designed for Indian youth. 
+It combines emotion AI, VR therapy, meme-based engagement, journaling, and 
+privacy-first design to deliver accessible and stigma-free mental health support.
+
+## ✨ Features
+- AI-powered mood detection (on-device)
+- Hinglish therapy chatbot (CBT, DBT, Mindfulness)
+- VR therapy rooms (WebXR)
+- Bollywood meme therapy
+- Journaling & mood tracking
+- Anonymous peer support
+- 100% privacy-first (offline storage)
+
+## 🛠️ Tech Stack
+- React (Vite)
+- Tailwind CSS
+- face-api.js
+- A-Frame (WebXR)
+- Chart.js
+- Tenor API
+- Jitsi Meet API
+
+## 🔒 Privacy
+All emotional data is processed locally. No data is stored on servers.
+
+## 📸 Screenshots
+(Add screenshots here)
+
+## 🔗 Live Demo
+(Add demo link if available)
+
+## 👩‍💻 Author
+Rakshitha Semala
+
 
 Local dev quick start
 
